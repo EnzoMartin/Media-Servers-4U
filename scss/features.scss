@@ -1,0 +1,37 @@
+#features {
+    .row {
+        padding-top: 20px;
+    }
+
+    h4 {
+        margin: 0;
+        font-size: 16px;
+        font-weight: bold;
+        color:#2f2f2f;
+    }
+
+    p {
+        color: #818181;
+        margin: 0;
+    }
+
+    table {
+        td {
+            vertical-align: top;
+        }
+    }
+
+    .icon-container {
+        border-radius: 6px;
+        background: #faac20;
+        background: linear-gradient(to bottom, #faac20 0%,#fe7507 100%);
+        padding: 7px;
+        vertical-align: middle;
+        margin-right: 10px;
+
+        i {
+            font-size: 30px;
+            color: #FFF;
+        }
+    }
+}
